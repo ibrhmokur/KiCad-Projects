@@ -1,0 +1,5 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+BT1,Bat_2032,BatteryHolder_Keystone_1058_1x2032,95.5,-62.0,180.0,top
+D1,LED,LED_D5.0mm,59.0,-62.0,0.0,top
+R1,R,R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,68.0,-62.0,90.0,top
+SW1,SW_DPST_x2,SW_TH_Tactile_Omron_B3F-10xx,74.0,-62.0,0.0,top
